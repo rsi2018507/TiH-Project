@@ -1,7 +1,7 @@
 # Datasets
 
 1. Healthcare_IOT_Data (17.78KB)
-2. 
+
 This dataset represents simulated sensor readings from wearable devices used in an IoT-based healthcare system. It captures patient health data through sensors that monitor vital signs, including temperature, blood pressure, heart rate, and battery status. These real-time measurements can be transmitted to healthcare providers, enabling remote monitoring and timely medical intervention.
 
 The dataset available at - https://www.kaggle.com/datasets/ziya07/healthcare-iot-data
@@ -11,7 +11,6 @@ Key Features:
 Patient_ID: A unique identifier for each patient (string or integer).
 
 Timestamp: The timestamp when the data was recorded, representing the date and time of each sensor reading.
-
 Sensor_ID: A unique identifier for the sensor used to collect data (string or integer).
 
 Sensor_Type: The type of sensor (e.g., 'Temperature', 'Blood Pressure', 'Heart Rate', etc.).
