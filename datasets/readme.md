@@ -8,30 +8,32 @@ The dataset available at - https://www.kaggle.com/datasets/ziya07/healthcare-iot
 
 Key Features:
 
-Patient_ID: A unique identifier for each patient (string or integer).
+•	Patient_ID: A unique identifier for each patient (string or integer).
 
-Timestamp: The timestamp when the data was recorded, representing the date and time of each sensor reading.
-Sensor_ID: A unique identifier for the sensor used to collect data (string or integer).
+•	Timestamp: The timestamp when the data was recorded, representing the date and time of each sensor reading.
 
-Sensor_Type: The type of sensor (e.g., 'Temperature', 'Blood Pressure', 'Heart Rate', etc.).
+•	Sensor_ID: A unique identifier for the sensor used to collect data (string or integer).
 
-Temperature (°C): The body temperature of the patient, measured in degrees Celsius.
+•	Sensor_Type: The type of sensor (e.g., 'Temperature', 'Blood Pressure', 'Heart Rate', etc.).
 
-Systolic_BP (mmHg): The systolic blood pressure of the patient, measured in millimeters of mercury (mmHg).
+•	Temperature (°C): The body temperature of the patient, measured in degrees Celsius.
 
-Diastolic_BP (mmHg): The diastolic blood pressure of the patient, measured in millimeters of mercury (mmHg).
+•	Systolic_BP (mmHg): The systolic blood pressure of the patient, measured in millimeters of mercury (mmHg).
 
-Heart_Rate (bpm): The patient's heart rate, measured in beats per minute (bpm).
+•	Diastolic_BP (mmHg): The diastolic blood pressure of the patient, measured in millimeters of mercury (mmHg).
 
-Device_Battery_Level (%): The battery percentage of the device used to collect the data.
+•	Heart_Rate (bpm): The patient's heart rate, measured in beats per minute (bpm).
 
-Target_Blood_Pressure: A predefined target for the patient's blood pressure, used for comparison or monitoring.
+•	Device_Battery_Level (%): The battery percentage of the device used to collect the data.
 
-Target_Heart_Rate: A predefined target for the patient's heart rate, used for comparison or monitoring.
+•	Target_Blood_Pressure: A predefined target for the patient's blood pressure, used for comparison or monitoring.
 
-Target_Health_Status: The predefined health status of the patient, indicating whether they are healthy, under observation, or in need of medical attention.
+•	Target_Heart_Rate: A predefined target for the patient's heart rate, used for comparison or monitoring.
 
-Battery_Level (%): The actual battery level of the IoT sensor device used to collect and transmit the data.
+•	Target_Health_Status: The predefined health status of the patient, indicating whether they are healthy, under observation, or in need of medical attention.
+
+•	Battery_Level (%): The actual battery level of the IoT sensor device used to collect and transmit the data.
+
 
 
 2.IoT Healthcare Security Dataset (107.79MB)
